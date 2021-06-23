@@ -9,6 +9,7 @@ public class Assert {
 	public void validate() {
 		// TODO Auto-generated constructor stub
 		org.testng.Assert.assertTrue(true);
+		System.out.println("Welcome to testng");
 	}
 	
 

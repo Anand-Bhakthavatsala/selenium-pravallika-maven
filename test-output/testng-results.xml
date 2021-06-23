@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="51" started-at="2021-06-23T14:19:37Z" finished-at="2021-06-23T14:19:37Z">
+  <suite name="Suite" duration-ms="45" started-at="2021-06-23T14:43:14Z" finished-at="2021-06-23T14:43:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="51" started-at="2021-06-23T14:19:37Z" finished-at="2021-06-23T14:19:37Z">
+    <test name="Test" duration-ms="45" started-at="2021-06-23T14:43:14Z" finished-at="2021-06-23T14:43:14Z">
       <class name="Selenium_Pravallika_maven.Selenium_Pravallika_maven.Assert">
-        <test-method status="PASS" signature="validate()[pri:0, instance:Selenium_Pravallika_maven.Selenium_Pravallika_maven.Assert@39c0f4a]" name="validate" duration-ms="20" started-at="2021-06-23T19:49:37Z" finished-at="2021-06-23T19:49:37Z">
+        <test-method status="PASS" signature="validate()[pri:0, instance:Selenium_Pravallika_maven.Selenium_Pravallika_maven.Assert@39c0f4a]" name="validate" duration-ms="16" started-at="2021-06-23T20:13:14Z" finished-at="2021-06-23T20:13:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validate -->
       </class> <!-- Selenium_Pravallika_maven.Selenium_Pravallika_maven.Assert -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
