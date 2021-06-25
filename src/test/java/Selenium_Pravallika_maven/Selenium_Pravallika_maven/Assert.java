@@ -10,6 +10,8 @@ public class Assert {
 		// TODO Auto-generated constructor stub
 		org.testng.Assert.assertTrue(true);
 		System.out.println("Welcome to testng");
+		
+		System.out.println("Pushing new line");
 	}
 	
 
