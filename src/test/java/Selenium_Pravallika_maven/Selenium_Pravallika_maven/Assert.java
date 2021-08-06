@@ -11,7 +11,7 @@ public class Assert {
 		org.testng.Assert.assertTrue(false); //true -> false
 		System.out.println("Welcome to testng");
 		
-		System.out.println("Pushing new line & changed the value");
+		System.out.println("Pushing new line & changed the value of assert");
 	}
 	
 
